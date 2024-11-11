@@ -11,9 +11,11 @@ public class SceneInit : MonoBehaviour
     }
 
     private void InitializeGameManager(){
+        //if there is no gameManager
         GameManager existingGameManager = FindObjectOfType<GameManager>();
         if(existingGameManager == null){
             Debug.Log("CREATING PREFAB!");
+            //create one
             GameObject gameManagerPrefab = Resources.Load<GameObject>("prefabs/GameManager");
             Instantiate(gameManagerPrefab);
         }

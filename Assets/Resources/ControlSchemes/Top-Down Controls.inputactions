@@ -20,7 +20,7 @@
                     "id": "8d9a12a1-4d81-4fdd-b2fb-9d67a470e3f9",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Press(behavior=2)",
                     "initialStateCheck": false
                 }
             ],
@@ -106,6 +106,17 @@
                     "name": "",
                     "id": "c051d70a-0eaf-4d5e-94c5-2b90299d2814",
                     "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "deb1ca7b-e6bf-4a56-a902-e0bc3d2c9040",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
