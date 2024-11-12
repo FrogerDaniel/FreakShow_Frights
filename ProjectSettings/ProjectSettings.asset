@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 90324446fbe76304fb5210c103edb189
+  productGUID: 38eac17b2d1d2444da9e1e948502fe29
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FreakShow_Frights
+  productName: Top-down 30f1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FreakShow_Frights
+  metroPackageName: Top-down 30f1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FreakShow_Frights
+  metroApplicationDescription: Top-down 30f1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,11 +915,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1408944f-1940-42ac-890d-b1ed3bd3b4b5
+  cloudProjectId: 32ab1c83-34dc-41be-995b-dea7c86eaee9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FreakShow_Frights
-  organizationId: jupolak
+  projectName: Top-down 30f1
+  organizationId: frogerdaniel
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
