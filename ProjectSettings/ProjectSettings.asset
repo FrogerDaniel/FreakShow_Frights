@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 7faa1568630ef4f49b5935f6d6f7dbfb
+  productGUID: 38eac17b2d1d2444da9e1e948502fe29
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Top-down training room
+  productName: Top-down 30f1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -84,7 +84,6 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
-  audioSpatialExperience: 0
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -839,14 +838,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Top-down training room
+  metroPackageName: Top-down 30f1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Top-down training room
+  metroApplicationDescription: Top-down 30f1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,10 +915,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5b78745a-e97b-4388-840c-b93eb551374e
+  cloudProjectId: 32ab1c83-34dc-41be-995b-dea7c86eaee9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Top-down training room
+  projectName: Top-down 30f1
   organizationId: frogerdaniel
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
